@@ -10,7 +10,3 @@
 <p>• GitHub corretamente instalado e funcionando.</p>
 <p>• Insomnia corretamente instalado e funcionando.</p>
 <p> Após as instruções, é vital utilizar todos os arquivos para o funcionamento correto do "Sistema de Mercado".</p>
-<h2>Colaboradores:</h1>
-<p> BIANCA DE MOURA LUCENA,
-DÉBORA LIMA DA SILVA E
-EDUARDO DOMINGUES ALVES.</p>
